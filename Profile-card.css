@@ -1,0 +1,103 @@
+body{
+
+background-color:black;
+
+}
+
+li{
+
+text-decoration:none;
+
+}
+
+div{
+
+display:flex;
+
+justify-content:center;
+
+}
+
+button{
+
+border-color:5890FF;
+
+background-color:5890FF;
+
+height:8vh;
+
+width:50vw;
+
+color:white;
+
+border-radius:10px;
+
+font-size:1rem;
+
+}
+
+.Fac{
+
+    margin-top:50px;
+
+    margin-bottom:30px;
+
+}
+
+.Twi{
+
+    margin-bottom:30px;
+
+}
+
+.Ins{
+
+    margin-bottom:30px;
+
+}
+
+.Sna{
+
+    margin-bottom:30px;
+
+}
+
+.Git{
+
+    margin-bottom:30px;
+
+}
+
+.Ask{
+
+    margin-bottom:30px;
+
+}
+
+.Tik{
+
+    margin-bottom:30px;
+
+}
+
+.profile-card{
+
+    border-radius:20px;
+
+}
+
+.info{
+
+    color:green;
+
+    font-size:20px;
+
+    text-align:center;
+
+}
+
+img{
+
+    border-radius:90px;
+
+}
